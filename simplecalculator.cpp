@@ -6,7 +6,7 @@ cout<<"enter first operand:"<<endl;
 cin>>a;
 cout<<"enter second operand"<<endl;
 cin>>b;
-cout<<"\n case1.addition.\,\n case 2.subtraction,\n case 3.multipication,\n case 4.division ,\n case 5.exit \n";
+cout<<"\n case1.addition.,\n case 2.subtraction,\n case 3.multipication,\n case 4.division ,\n case 5.exit \n";
 cout<<"enter your choice:"<<endl;
 cin>>ch;
 switch(ch){
